@@ -1,0 +1,8 @@
+www.google.com, google
+www.mit.edu, mit
+www.grnet.gr, grnet
+www.bbc.co.uk, bbc-uk
+www.caida.org, caida
+www.anu.edu.au, anu
+www.inspire.edu.gr, inspire
+www.japan.go.jp, japan-go
